@@ -48,5 +48,12 @@
 11. Можно использовать приложение.
 	
  
- 
+### Используемый стек технологий
+* JavaScript
+* NodeJS
+* ReactJS
+* PostgreSQL
+* HTML
+* CSS
+* REST API
  
